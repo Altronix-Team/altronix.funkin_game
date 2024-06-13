@@ -15,7 +15,7 @@
   "playData": {
 	"album": "volume3",
     "songVariations": [],
-    "difficulties": ["erect", "nightmare", "normal", "hard"],
+    "difficulties": ["erect", "nightmare"],
     "characters": {
       "player": "bf",
       "girlfriend": "gf",
